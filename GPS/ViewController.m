@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     //1.0修改
+    //2.0分支构造
+    
 }
 
 - (void)didReceiveMemoryWarning {
